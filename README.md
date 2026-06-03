@@ -18,7 +18,7 @@ This project presents the design and simulation of a **PID-controlled Hybrid Ele
 
 ## Result
 <p align="center">
-  <img src=".png" width="800">
+  <img src="Screenshot 2026-06-03 223048.png" width="800">
 </p>
 
 ## System Architecture
