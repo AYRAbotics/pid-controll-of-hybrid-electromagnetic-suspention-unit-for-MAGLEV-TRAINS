@@ -16,6 +16,11 @@ This project presents the design and simulation of a **PID-controlled Hybrid Ele
 - Minimize overshoot and steady-state error.
 - Evaluate performance under external disturbances.
 
+## Result
+<p align="center">
+  <img src=".png" width="800">
+</p>
+
 ## System Architecture
 
 ```text
